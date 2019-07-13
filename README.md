@@ -6,7 +6,7 @@
 	http://localhost:8080/h2-console
 
 # Technologies:
-	Spring Boot 1.5.10.RELEASE
+	Spring Boot 2.1.10.RELEASE
 	H2 Database
 	Spring Boot Starter JDBC
 	Java8
